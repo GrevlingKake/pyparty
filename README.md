@@ -1,0 +1,2 @@
+# pyparty
+Python er kult
